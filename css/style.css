@@ -1661,11 +1661,14 @@ ul.related span.categories {color: #50554e; font-style: italic;}
 	/*	Search
 	/* -------------------------------------------------- */
 
+	#index-search {
+		top: 70px;
+		left: -60px;
+	}
+
 	.search-container {
 		position: relative;
 		float: right;
-/*		top: 70px;
-		left: -60px;*/
 	}
 
 	.search-container input[type="text"] {
